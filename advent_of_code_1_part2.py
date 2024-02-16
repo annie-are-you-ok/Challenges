@@ -45,4 +45,4 @@ with open("aoc1.txt") as f: #f is a ref to the file
 
         added_numbers = int(numbers) + int(added_numbers)       
         
-print(f"The sum of all of the calibration values is: {added_numbers}") #answer = 54676
+print(f"The sum of all of the calibration values is: {added_numbers}")
